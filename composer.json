@@ -1,0 +1,17 @@
+{
+    "name": "pallo/setup-cms",
+    "description": "Setup the Pallo CMS through the Composer dependency manager.",
+    "version": "0.1.0",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Joris Vandeweerd",
+            "email": "joris@statik.be"
+        }
+    ],
+    "require": {
+        "pallo/setup-base": ">=0.1.0",
+        "pallo/theme-bootstrap-cms": ">=0.2.1",
+        "pallo/web-cms": ">=0.2.0"
+    }
+}
