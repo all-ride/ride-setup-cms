@@ -12,6 +12,8 @@
     "require": {
         "pallo/setup-base": ">=0.1.0",
         "pallo/theme-bootstrap-cms": ">=0.2.1",
-        "pallo/web-cms": ">=0.2.0"
+        "pallo/web-cms": ">=0.5.0",
+        "pallo/web-cms-widgets": ">=0.1.0",
+        "pallo/web-cms-layouts": ">=0.1.0"
     }
 }
