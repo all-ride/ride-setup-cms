@@ -11,6 +11,7 @@
     ],
     "require": {
         "ride/setup-base": "^1.0.0",
+        "ride/cli-cms": "^1.0.0",
         "ride/theme-asphalt-cms": "^1.0.0",
         "ride/web-cms": "^1.0.0",
         "ride/web-cms-widgets": "^1.0.0",
