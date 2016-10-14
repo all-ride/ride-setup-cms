@@ -1,7 +1,7 @@
 {
     "name": "ride/setup-cms",
     "description": "Setup the Ride CMS through the Composer dependency manager.",
-    "version": "0.2.0",
+    "license": "MIT",
     "type": "metapackage",
     "authors": [
         {
@@ -10,10 +10,10 @@
         }
     ],
     "require": {
-        "ride/setup-base": ">=0.1.0",
-        "ride/theme-bootstrap-cms": ">=0.2.1",
-        "ride/web-cms": ">=0.5.0",
-        "ride/web-cms-widgets": ">=0.1.0",
-        "ride/web-cms-layouts": ">=0.1.0"
+        "ride/setup-base": "^1.0.0",
+        "ride/theme-asphalt-cms": "^1.0.0",
+        "ride/web-cms": "^1.0.0",
+        "ride/web-cms-widgets": "^1.0.0",
+        "ride/web-cms-layouts": "^1.0.0"
     }
 }
