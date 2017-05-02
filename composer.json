@@ -14,7 +14,7 @@
         "ride/cli-cms": "^1.0.0",
         "ride/theme-asphalt-cms": "^1.0.0",
         "ride/web-cms": "^1.0.0",
-        "ride/web-cms-widgets": "^1.0.0",
+        "ride/web-cms-widgets": "^2.0.0",
         "ride/web-cms-layouts": "^1.0.0"
     }
 }
