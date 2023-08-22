@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "ride/setup-base": "^1.0.0",
+        "ride/setup-base": "^2.0.0",
         "ride/cli-cms": "^1.0.0",
         "ride/theme-electric-cms": "^1.0.0",
         "ride/web-cms": "^1.0.0",
